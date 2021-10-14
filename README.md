@@ -1,0 +1,3 @@
+my first repo!
+
+This is my first text file on GitHub! Learning how to edit and commit and make changes... 
